@@ -9605,7 +9605,7 @@ var Message = function (_React$Component) {
 	return Message;
 }(React.Component);
 
-ReactDOM.render(React.createElement(Message, { title: 'Email Joe', message: 'can you email him?' }), document.getElementById('react-container'));
+ReactDOM.render(React.createElement(Message, { title: 'Hi', message: 'This is a react component' }), document.getElementById('react-container'));
 
 /***/ }),
 /* 84 */
